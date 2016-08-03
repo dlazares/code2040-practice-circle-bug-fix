@@ -1,5 +1,5 @@
-# deployment:
-#   prod:
-#     branch: master
-#     heroku:
-#       appname: hidden-crag-73794
+deployment:
+  prod:
+    branch: master
+    heroku:
+      appname: software-simian
